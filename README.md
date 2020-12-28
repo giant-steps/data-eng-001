@@ -6,7 +6,7 @@ We designed a simple data engineering problem so you can display all your skills
 	
 # Delivery Instructions
 
-Your code must be delivered in a private Github repository. Once you are done, you must give permission to the user @rafalee and send an email with the repository’s link to the same email address that last contacted you. 
+Your code must be delivered in a **private** Github repository. Once you are done, you must give permission to the user [rafalee](https://github.com/rafalee) and send an email with the repository’s link to the same email address that last contacted you. 
 
 Your repository must have a README file with sufficient instructions on how to run your solution and the automated tests.
 
@@ -51,7 +51,7 @@ The files are in CSV format containing the following fields:
 
 # FAQ
 - Are there any particular frameworks, databases systems or tools I should use for this challenge?
-  - No, use what you feel most comfortable with and that will showcase your data engineering and coding skills.he only technical requirement for this challenge is that you must use python to develop the application.
+  - No, use what you feel most comfortable with and that will showcase your data engineering and coding skills. The only technical requirement for this challenge is that you must use python to develop the application.
 - The challenge asks for a good test coverage of the code, do I need to follow TDD?
   - Not necessarily. The most important thing is that your code has good tests and test cases, this part is just as important as the code itself.
 - Should I include a database dump file with the data in my repository?
